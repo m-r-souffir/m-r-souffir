@@ -9,3 +9,8 @@ Software development: backend, automation agents and AI tools.
 - Moodle Agent: a Python agent that manages my courses on Moodle (coming soon on GitHub)
 - Order Agent and Film Agent: personal automation agents in Python
 - airOS: an iOS app with hand and face tracking (Apple Vision)
+
+## What I'm learning now
+- Machine learning: training and evaluating a model
+- Teamwork with branches and pull requests
+- Java
